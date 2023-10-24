@@ -1,5 +1,3 @@
-//Me acabo de enterar que era sin for es que lo hice en mi casa
-
 #include <stdio.h>
 
     int fibonacci(int n){
